@@ -137,6 +137,3 @@ Fitur lain seperti `InternetService_Fiber optic`, `PaymentMethod_1`, `TechSuppor
 ## 👤 Author
 
 **M. Rizky Ardiansyah Putra**
-- LinkedIn: [link]
-- GitHub: [link]
-- Email: [email]
